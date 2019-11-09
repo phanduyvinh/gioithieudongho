@@ -2,8 +2,7 @@
 
 ### Project Giới Thiệu Đồng Hồ
 
-Chú ý: project không bao gồm node_modules
-Project có sử dụng thư viện axios và react-router-dom, nếu node_modules của bạn chưa có thư viện thì cài như dưới
+Chú ý: project không bao gồm node_modules và project có sử dụng thư viện axios và react-router-dom, nếu node_modules của bạn chưa có thư viện thì cài như dưới
 ### Cách cài: 
 axios : npm install axios
 react-router-dom : npm install react-router-dom
