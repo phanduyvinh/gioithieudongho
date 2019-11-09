@@ -1,0 +1,227 @@
+{
+  "categories": [
+    {
+      "id": 1,
+      "tendm": "Đồng hồ cao cấp"
+    },
+    {
+      "id": 2,
+      "tendm": "Đồng hồ thời trang"
+    },
+    {
+      "id": 3,
+      "tendm": "Đồng hồ thể thao"
+    }
+  ],
+  "login": [
+    {
+      "id": 1,
+      "username": "admin",
+      "password": "123456"
+    }
+  ],
+  "gopy": [
+    {
+      "id": 8,
+      "ten": "Phan Vin Văn",
+      "noidung": "Bán rẻ vậy ai mua",
+      "mail": "phanduyvinh38@gmail.com"
+    },
+    {
+      "id": 4,
+      "ten": "Phan Vin Văn",
+      "noidung": "Bán đắt vậy ai mua",
+      "mail": "phanduyvinh38@gmail.com"
+    },
+    {
+      "ten": "Khoi",
+      "noidung": "Bai lam te quá",
+      "mail": "Khoigmail.com",
+      "id": 9
+    }
+  ],
+  "products": [
+    {
+      "tensp": "Đồng hồ Rado R32502203",
+      "gia": "7000000",
+      "giakm": "5000000",
+      "hinhanh": "/images/dongho6.jpg",
+      "tendm": "2",
+      "model": "FS18880i",
+      "mota": "Master of materials - đó là cách mà mọi tín đồ đồng hồ trên thế giới dành để tôn vinh Rado. Được thành lập năm 1917, Rado đã có hơn 100 năm kinh nghiệm trong ngành chế tác đồng hồ Thụy Sĩ. Bắt đầu với cái tên The Schlup & Co, anh em nhà Fritz, Ernst và Werrner đã phát triển mạnh mẽ cơ sở sản xuất của mình trong thế chiến thứ 2 và trở thành một trong những nhà chế tác cỗ máy đồng hồ lớn nhất thời điểm đó. Khoảng thời gian từ năm 1950 đến năm 1959 chứng kiến việc Schlup & Co trình làng những bộ sưu tập đầu tiên dưới cái tên Rado trong đó có Golden Horse và Green Horse. Năm 1962, Rado giới thiệu mẫu đồng hồ có khả năng chống xước đầu tiên trên thế giới với cái tên DiaStar 1. Và đó chính là khởi đầu cho một huyền thoại của làng đồng hồ với triết lý riêng biệt - theo đuổi sự đột phá trong vật liệu chế tác đồng hồ nhưng vẫn đảm bảo giữ được thiết kế sang trọng và thanh lịch. Ngày nay, Rado đã khẳng định được vị thế của mình như là nhà tiên phong trong việc chế tác đồng hồ bằng những chất liệu đặc biệt nhất. Có thể kể tới một vài ví dụ tiêu biểu như ceramic công nghệ cao, plasma ceramic, ceramos hay kim cương công nghệ cao.",
+      "loaiday": "Vàng kết hợp titan",
+      "matkinh": "Sapphire",
+      "thuonghieu": "CIS Thụy Điển",
+      "tinhtranghang": true,
+      "trangthai": "KM",
+      "id": 5
+    },
+    {
+      "id": 6,
+      "tensp": "Đồng hồ Rado R32502203",
+      "gia": "7000000",
+      "giakm": "5000000",
+      "hinhanh": "/images/dongho2.jpg",
+      "tendm": "1",
+      "model": "FS18880i",
+      "mota": "Master of materials - đó là cách mà mọi tín đồ đồng hồ trên thế giới dành để tôn vinh Rado. Được thành lập năm 1917, Rado đã có hơn 100 năm kinh nghiệm trong ngành chế tác đồng hồ Thụy Sĩ. Bắt đầu với cái tên The Schlup & Co, anh em nhà Fritz, Ernst và Werrner đã phát triển mạnh mẽ cơ sở sản xuất của mình trong thế chiến thứ 2 và trở thành một trong những nhà chế tác cỗ máy đồng hồ lớn nhất thời điểm đó. Khoảng thời gian từ năm 1950 đến năm 1959 chứng kiến việc Schlup & Co trình làng những bộ sưu tập đầu tiên dưới cái tên Rado trong đó có Golden Horse và Green Horse. Năm 1962, Rado giới thiệu mẫu đồng hồ có khả năng chống xước đầu tiên trên thế giới với cái tên DiaStar 1. Và đó chính là khởi đầu cho một huyền thoại của làng đồng hồ với triết lý riêng biệt - theo đuổi sự đột phá trong vật liệu chế tác đồng hồ nhưng vẫn đảm bảo giữ được thiết kế sang trọng và thanh lịch. Ngày nay, Rado đã khẳng định được vị thế của mình như là nhà tiên phong trong việc chế tác đồng hồ bằng những chất liệu đặc biệt nhất. Có thể kể tới một vài ví dụ tiêu biểu như ceramic công nghệ cao, plasma ceramic, ceramos hay kim cương công nghệ cao.",
+      "matkinh": "Sapphire",
+      "thuonghieu": "CIS Thụy Điển",
+      "loaiday": "Vàng kết hợp titan",
+      "doday": "10.1mm",
+      "tinhtranghang": false,
+      "trangthai": "H"
+    },
+    {
+      "tensp": "Đồng hồ Rado R32502203",
+      "gia": "7000000",
+      "giakm": "5000000",
+      "hinhanh": "/images/dongho2.jpg",
+      "tendm": "3",
+      "model": "FS18880i",
+      "mota": "Master of materials - đó là cách mà mọi tín đồ đồng hồ trên thế giới dành để tôn vinh Rado. Được thành lập năm 1917, Rado đã có hơn 100 năm kinh nghiệm trong ngành chế tác đồng hồ Thụy Sĩ. Bắt đầu với cái tên The Schlup & Co, anh em nhà Fritz, Ernst và Werrner đã phát triển mạnh mẽ cơ sở sản xuất của mình trong thế chiến thứ 2 và trở thành một trong những nhà chế tác cỗ máy đồng hồ lớn nhất thời điểm đó. Khoảng thời gian từ năm 1950 đến năm 1959 chứng kiến việc Schlup & Co trình làng những bộ sưu tập đầu tiên dưới cái tên Rado trong đó có Golden Horse và Green Horse. Năm 1962, Rado giới thiệu mẫu đồng hồ có khả năng chống xước đầu tiên trên thế giới với cái tên DiaStar 1. Và đó chính là khởi đầu cho một huyền thoại của làng đồng hồ với triết lý riêng biệt - theo đuổi sự đột phá trong vật liệu chế tác đồng hồ nhưng vẫn đảm bảo giữ được thiết kế sang trọng và thanh lịch. Ngày nay, Rado đã khẳng định được vị thế của mình như là nhà tiên phong trong việc chế tác đồng hồ bằng những chất liệu đặc biệt nhất. Có thể kể tới một vài ví dụ tiêu biểu như ceramic công nghệ cao, plasma ceramic, ceramos hay kim cương công nghệ cao.",
+      "loaiday": "Vàng kết hợp titan",
+      "matkinh": "Sapphire",
+      "thuonghieu": "CIS Thụy Điển",
+      "tinhtranghang": true,
+      "trangthai": "M",
+      "id": 7
+    },
+    {
+      "tensp": "Đồng hồ Rado R32502203",
+      "gia": "7000000",
+      "giakm": "5000000",
+      "hinhanh": "/images/dongho5.jpg",
+      "tendm": "3",
+      "model": "FS18880i",
+      "mota": "Master of materials - đó là cách mà mọi tín đồ đồng hồ trên thế giới dành để tôn vinh Rado. Được thành lập năm 1917, Rado đã có hơn 100 năm kinh nghiệm trong ngành chế tác đồng hồ Thụy Sĩ. Bắt đầu với cái tên The Schlup & Co, anh em nhà Fritz, Ernst và Werrner đã phát triển mạnh mẽ cơ sở sản xuất của mình trong thế chiến thứ 2 và trở thành một trong những nhà chế tác cỗ máy đồng hồ lớn nhất thời điểm đó. Khoảng thời gian từ năm 1950 đến năm 1959 chứng kiến việc Schlup & Co trình làng những bộ sưu tập đầu tiên dưới cái tên Rado trong đó có Golden Horse và Green Horse. Năm 1962, Rado giới thiệu mẫu đồng hồ có khả năng chống xước đầu tiên trên thế giới với cái tên DiaStar 1. Và đó chính là khởi đầu cho một huyền thoại của làng đồng hồ với triết lý riêng biệt - theo đuổi sự đột phá trong vật liệu chế tác đồng hồ nhưng vẫn đảm bảo giữ được thiết kế sang trọng và thanh lịch. Ngày nay, Rado đã khẳng định được vị thế của mình như là nhà tiên phong trong việc chế tác đồng hồ bằng những chất liệu đặc biệt nhất. Có thể kể tới một vài ví dụ tiêu biểu như ceramic công nghệ cao, plasma ceramic, ceramos hay kim cương công nghệ cao.",
+      "loaiday": "Vàng kết hợp titan",
+      "matkinh": "Sapphire",
+      "thuonghieu": "CIS Thụy Điển",
+      "tinhtranghang": true,
+      "trangthai": "H",
+      "id": 8
+    },
+    {
+      "tensp": "Đồng hồ Rado R32502203",
+      "gia": "7000000",
+      "giakm": "5000000",
+      "hinhanh": "/images/dongho6.jpg",
+      "tendm": "1",
+      "model": "FS18880i",
+      "mota": "Master of materials - đó là cách mà mọi tín đồ đồng hồ trên thế giới dành để tôn vinh Rado. Được thành lập năm 1917, Rado đã có hơn 100 năm kinh nghiệm trong ngành chế tác đồng hồ Thụy Sĩ. Bắt đầu với cái tên The Schlup & Co, anh em nhà Fritz, Ernst và Werrner đã phát triển mạnh mẽ cơ sở sản xuất của mình trong thế chiến thứ 2 và trở thành một trong những nhà chế tác cỗ máy đồng hồ lớn nhất thời điểm đó. Khoảng thời gian từ năm 1950 đến năm 1959 chứng kiến việc Schlup & Co trình làng những bộ sưu tập đầu tiên dưới cái tên Rado trong đó có Golden Horse và Green Horse. Năm 1962, Rado giới thiệu mẫu đồng hồ có khả năng chống xước đầu tiên trên thế giới với cái tên DiaStar 1. Và đó chính là khởi đầu cho một huyền thoại của làng đồng hồ với triết lý riêng biệt - theo đuổi sự đột phá trong vật liệu chế tác đồng hồ nhưng vẫn đảm bảo giữ được thiết kế sang trọng và thanh lịch. Ngày nay, Rado đã khẳng định được vị thế của mình như là nhà tiên phong trong việc chế tác đồng hồ bằng những chất liệu đặc biệt nhất. Có thể kể tới một vài ví dụ tiêu biểu như ceramic công nghệ cao, plasma ceramic, ceramos hay kim cương công nghệ cao.",
+      "loaiday": "Vàng kết hợp titan",
+      "matkinh": "Sapphire",
+      "thuonghieu": "CIS Thụy Điển",
+      "tinhtranghang": true,
+      "trangthai": "M",
+      "id": 9
+    },
+    {
+      "id": 10,
+      "tensp": "Đồng hồ Rado R32502203",
+      "gia": "7000000",
+      "giakm": "5000000",
+      "hinhanh": "/images/dongho4.jpg",
+      "tendm": "1",
+      "model": "FS18880i",
+      "mota": "Master of materials - đó là cách mà mọi tín đồ đồng hồ trên thế giới dành để tôn vinh Rado. Được thành lập năm 1917, Rado đã có hơn 100 năm kinh nghiệm trong ngành chế tác đồng hồ Thụy Sĩ. Bắt đầu với cái tên The Schlup & Co, anh em nhà Fritz, Ernst và Werrner đã phát triển mạnh mẽ cơ sở sản xuất của mình trong thế chiến thứ 2 và trở thành một trong những nhà chế tác cỗ máy đồng hồ lớn nhất thời điểm đó. Khoảng thời gian từ năm 1950 đến năm 1959 chứng kiến việc Schlup & Co trình làng những bộ sưu tập đầu tiên dưới cái tên Rado trong đó có Golden Horse và Green Horse. Năm 1962, Rado giới thiệu mẫu đồng hồ có khả năng chống xước đầu tiên trên thế giới với cái tên DiaStar 1. Và đó chính là khởi đầu cho một huyền thoại của làng đồng hồ với triết lý riêng biệt - theo đuổi sự đột phá trong vật liệu chế tác đồng hồ nhưng vẫn đảm bảo giữ được thiết kế sang trọng và thanh lịch. Ngày nay, Rado đã khẳng định được vị thế của mình như là nhà tiên phong trong việc chế tác đồng hồ bằng những chất liệu đặc biệt nhất. Có thể kể tới một vài ví dụ tiêu biểu như ceramic công nghệ cao, plasma ceramic, ceramos hay kim cương công nghệ cao.",
+      "matkinh": "Sapphire",
+      "thuonghieu": "CIS Thụy Điển",
+      "loaiday": "Vàng kết hợp titan",
+      "doday": "10.1mm",
+      "tinhtranghang": false,
+      "trangthai": "M"
+    },
+    {
+      "tensp": "Đồng hồ Rado R32502203",
+      "gia": "7000000",
+      "giakm": "5000000",
+      "hinhanh": "/images/dongho3.jpg",
+      "tendm": "1",
+      "model": "FS18880i",
+      "mota": "Master of materials - đó là cách mà mọi tín đồ đồng hồ trên thế giới dành để tôn vinh Rado. Được thành lập năm 1917, Rado đã có hơn 100 năm kinh nghiệm trong ngành chế tác đồng hồ Thụy Sĩ. Bắt đầu với cái tên The Schlup & Co, anh em nhà Fritz, Ernst và Werrner đã phát triển mạnh mẽ cơ sở sản xuất của mình trong thế chiến thứ 2 và trở thành một trong những nhà chế tác cỗ máy đồng hồ lớn nhất thời điểm đó. Khoảng thời gian từ năm 1950 đến năm 1959 chứng kiến việc Schlup & Co trình làng những bộ sưu tập đầu tiên dưới cái tên Rado trong đó có Golden Horse và Green Horse. Năm 1962, Rado giới thiệu mẫu đồng hồ có khả năng chống xước đầu tiên trên thế giới với cái tên DiaStar 1. Và đó chính là khởi đầu cho một huyền thoại của làng đồng hồ với triết lý riêng biệt - theo đuổi sự đột phá trong vật liệu chế tác đồng hồ nhưng vẫn đảm bảo giữ được thiết kế sang trọng và thanh lịch. Ngày nay, Rado đã khẳng định được vị thế của mình như là nhà tiên phong trong việc chế tác đồng hồ bằng những chất liệu đặc biệt nhất. Có thể kể tới một vài ví dụ tiêu biểu như ceramic công nghệ cao, plasma ceramic, ceramos hay kim cương công nghệ cao.",
+      "loaiday": "Vàng kết hợp titan",
+      "matkinh": "Sapphire",
+      "thuonghieu": "CIS Thụy Điển",
+      "tinhtranghang": true,
+      "trangthai": "M",
+      "id": 11
+    },
+    {
+      "tensp": "Đồng hồ Rado R32502203",
+      "gia": "7000000",
+      "giakm": "5000000",
+      "hinhanh": "/images/dongho3.jpg",
+      "tendm": "1",
+      "model": "FS18880i",
+      "mota": "Master of materials - đó là cách mà mọi tín đồ đồng hồ trên thế giới dành để tôn vinh Rado. Được thành lập năm 1917, Rado đã có hơn 100 năm kinh nghiệm trong ngành chế tác đồng hồ Thụy Sĩ. Bắt đầu với cái tên The Schlup & Co, anh em nhà Fritz, Ernst và Werrner đã phát triển mạnh mẽ cơ sở sản xuất của mình trong thế chiến thứ 2 và trở thành một trong những nhà chế tác cỗ máy đồng hồ lớn nhất thời điểm đó. Khoảng thời gian từ năm 1950 đến năm 1959 chứng kiến việc Schlup & Co trình làng những bộ sưu tập đầu tiên dưới cái tên Rado trong đó có Golden Horse và Green Horse. Năm 1962, Rado giới thiệu mẫu đồng hồ có khả năng chống xước đầu tiên trên thế giới với cái tên DiaStar 1. Và đó chính là khởi đầu cho một huyền thoại của làng đồng hồ với triết lý riêng biệt - theo đuổi sự đột phá trong vật liệu chế tác đồng hồ nhưng vẫn đảm bảo giữ được thiết kế sang trọng và thanh lịch. Ngày nay, Rado đã khẳng định được vị thế của mình như là nhà tiên phong trong việc chế tác đồng hồ bằng những chất liệu đặc biệt nhất. Có thể kể tới một vài ví dụ tiêu biểu như ceramic công nghệ cao, plasma ceramic, ceramos hay kim cương công nghệ cao.",
+      "loaiday": "Vàng kết hợp titan",
+      "matkinh": "Sapphire",
+      "thuonghieu": "CIS Thụy Điển",
+      "tinhtranghang": true,
+      "trangthai": "M",
+      "id": 12
+    },
+    {
+      "tensp": "Đồng hồ Rado R32502203",
+      "gia": "7000000",
+      "giakm": "5000000",
+      "hinhanh": "/images/dongho6.jpg",
+      "tendm": "1",
+      "model": "FS18880i",
+      "mota": "Master of materials - đó là cách mà mọi tín đồ đồng hồ trên thế giới dành để tôn vinh Rado. Được thành lập năm 1917, Rado đã có hơn 100 năm kinh nghiệm trong ngành chế tác đồng hồ Thụy Sĩ. Bắt đầu với cái tên The Schlup & Co, anh em nhà Fritz, Ernst và Werrner đã phát triển mạnh mẽ cơ sở sản xuất của mình trong thế chiến thứ 2 và trở thành một trong những nhà chế tác cỗ máy đồng hồ lớn nhất thời điểm đó. Khoảng thời gian từ năm 1950 đến năm 1959 chứng kiến việc Schlup & Co trình làng những bộ sưu tập đầu tiên dưới cái tên Rado trong đó có Golden Horse và Green Horse. Năm 1962, Rado giới thiệu mẫu đồng hồ có khả năng chống xước đầu tiên trên thế giới với cái tên DiaStar 1. Và đó chính là khởi đầu cho một huyền thoại của làng đồng hồ với triết lý riêng biệt - theo đuổi sự đột phá trong vật liệu chế tác đồng hồ nhưng vẫn đảm bảo giữ được thiết kế sang trọng và thanh lịch. Ngày nay, Rado đã khẳng định được vị thế của mình như là nhà tiên phong trong việc chế tác đồng hồ bằng những chất liệu đặc biệt nhất. Có thể kể tới một vài ví dụ tiêu biểu như ceramic công nghệ cao, plasma ceramic, ceramos hay kim cương công nghệ cao.",
+      "loaiday": "Vàng kết hợp titan",
+      "matkinh": "Sapphire",
+      "thuonghieu": "CIS Thụy Điển",
+      "tinhtranghang": true,
+      "trangthai": "M",
+      "id": 13
+    },
+    {
+      "tensp": "Đồng hồ Rado R32502203",
+      "gia": "7000000",
+      "giakm": "5000000",
+      "hinhanh": "/images/dongho2.jpg",
+      "tendm": "1",
+      "model": "FS18880i",
+      "mota": "Master of materials - đó là cách mà mọi tín đồ đồng hồ trên thế giới dành để tôn vinh Rado. Được thành lập năm 1917, Rado đã có hơn 100 năm kinh nghiệm trong ngành chế tác đồng hồ Thụy Sĩ. Bắt đầu với cái tên The Schlup & Co, anh em nhà Fritz, Ernst và Werrner đã phát triển mạnh mẽ cơ sở sản xuất của mình trong thế chiến thứ 2 và trở thành một trong những nhà chế tác cỗ máy đồng hồ lớn nhất thời điểm đó. Khoảng thời gian từ năm 1950 đến năm 1959 chứng kiến việc Schlup & Co trình làng những bộ sưu tập đầu tiên dưới cái tên Rado trong đó có Golden Horse và Green Horse. Năm 1962, Rado giới thiệu mẫu đồng hồ có khả năng chống xước đầu tiên trên thế giới với cái tên DiaStar 1. Và đó chính là khởi đầu cho một huyền thoại của làng đồng hồ với triết lý riêng biệt - theo đuổi sự đột phá trong vật liệu chế tác đồng hồ nhưng vẫn đảm bảo giữ được thiết kế sang trọng và thanh lịch. Ngày nay, Rado đã khẳng định được vị thế của mình như là nhà tiên phong trong việc chế tác đồng hồ bằng những chất liệu đặc biệt nhất. Có thể kể tới một vài ví dụ tiêu biểu như ceramic công nghệ cao, plasma ceramic, ceramos hay kim cương công nghệ cao.",
+      "loaiday": "Vàng kết hợp titan",
+      "matkinh": "Sapphire",
+      "thuonghieu": "CIS Thụy Điển",
+      "tinhtranghang": true,
+      "trangthai": "M",
+      "id": 14
+    },
+    {
+      "tensp": "Đồng hồ đăng quang",
+      "gia": "120000",
+      "giakm": "100000",
+      "hinhanh": "/images/dongho3.jpg",
+      "tendm": "2",
+      "model": "132",
+      "mota": "chất liệu bền, chống thấm nước, chống va chạm",
+      "loaiday": "da",
+      "matkinh": "cường lực",
+      "thuonghieu": "Dw",
+      "tinhtranghang": true,
+      "trangthai": "M",
+      "id": 15
+    },
+    {
+      "tensp": "Đồng hồ Dw",
+      "gia": "200000",
+      "giakm": "120000",
+      "hinhanh": "/images/dongho5.jpg",
+      "tendm": "2",
+      "model": "132",
+      "mota": "Master of materials - đó là cách mà mọi tín đồ đồng hồ trên thế giới dành để tôn vinh Rado. Được thành lập năm 1917, Rado đã có hơn 100 năm kinh nghiệm trong ngành chế tác đồng hồ Thụy Sĩ. Bắt đầu với cái tên The Schlup & Co, anh em nhà Fritz, Ernst và Werrner đã phát triển mạnh mẽ cơ sở sản xuất của mình trong thế chiến thứ 2 và trở thành một trong những nhà chế tác cỗ máy đồng hồ lớn nhất thời điểm đó. Khoảng thời gian từ năm 1950 đến năm 1959 chứng kiến việc Schlup & Co trình làng những bộ sưu tập đầu tiên dưới cái tên Rado trong đó có Golden Horse và Green Horse. Năm 1962, Rado giới thiệu mẫu đồng hồ có khả năng chống xước đầu tiên trên thế giới với cái tên DiaStar 1. Và đó chính là khởi đầu cho một huyền thoại của làng đồng hồ với triết lý riêng biệt - theo đuổi sự đột phá trong vật liệu chế tác đồng hồ nhưng vẫn đảm bảo giữ được thiết kế sang trọng và thanh lịch. Ngày nay, Rado đã khẳng định được vị thế của mình như là nhà tiên phong trong việc chế tác đồng hồ bằng những chất liệu đặc biệt nhất. Có thể kể tới một vài ví dụ tiêu biểu như ceramic công nghệ cao, plasma ceramic, ceramos hay kim cương công nghệ cao.",
+      "loaiday": "da",
+      "matkinh": "cường lực",
+      "thuonghieu": "Dw",
+      "tinhtranghang": true,
+      "trangthai": "M",
+      "id": 16
+    }
+  ]
+}

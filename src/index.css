@@ -1,0 +1,414 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen",
+    "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue",
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
+    monospace;
+}
+.row1{
+	background: black;
+}
+.row12{
+	width: 100%;
+	background: black;
+	margin-top: 30px;
+	text-align: center;
+	color: #ddd;
+	border-top: 2px solid #28a745;
+}
+.anh1{
+	width: 30%;
+	background: black;
+	border: 1px solid black;
+}
+.mh ul{
+	list-style-type: none;
+}
+.mh ul li{
+	float: left;
+	display: block;
+	margin: 5% 0 0 15px;
+}
+#menu1{
+	width: 200px;
+	background: black;
+}
+#li1{
+	float: left;
+	display: block;
+    width: 100%;
+    margin: 2px 0 8px 0;
+    padding: 0 0 0 0;
+    border-bottom: 1px solid grey;
+}
+#li2{
+	float: left;
+	display: block;
+    width: 100%;
+    margin: 2px 0 0 0;
+    padding: 0 0 0 0;
+}
+#li1 a, #li2 a{
+	width: 100%;
+	display: block;
+	margin: 0;
+	padding: 0;
+}
+#li1 a:hover{
+	color: gray;
+}
+.mh ul li a{
+	text-decoration: none;
+	color: white;
+	font-weight: bolder;
+	font-family: arial;
+}
+.dropdown-toggle{
+	color: white;
+	font-weight: bolder;
+	font-family: arial;
+	margin: -6px 0 0 0;
+}
+.dropdown-toggle:hover{
+	color: white;
+	border: 1px solid black;
+}
+
+
+
+.row1 h6{
+	display: block;
+	width: 100%;
+	float: left;
+	color: white;
+	font-family: arial;
+	font-weight: bold;
+	margin: 50px 0 20px 0;
+	padding: 0;
+}
+.row1 .col-md-3 p{
+	float: left;
+	margin: 0;
+	padding: 0;
+	text-align: left;
+	color: #ddd;
+}
+.row1 i{
+	float: left;
+	margin: 5px 2px 0 0;
+	padding: 0;
+	color: #ddd;
+}
+.row1 .col-md-3 a{
+	float: left;
+	margin: 0 0 35px 0;
+	padding: 0;
+	color: #ddd;
+	text-decoration: none;
+}
+.row1 #ftl a{
+	float: left;
+	display: block;
+	width: 50%;
+	margin: 0 0 20px 57px;
+	padding: 0;
+	color: #ddd;
+	text-decoration: none;
+	text-align: left;
+}
+.row1 #ftl2 a{
+	float: left;
+	display: block;
+	width: 65%;
+	margin: 0 0 20px 65px;
+	padding: 0;
+	color: #ddd;
+	text-decoration: none;
+	text-align: left;
+}
+
+
+
+.row2 h5{
+	float: left;
+	display: block;
+	width: 100%;
+	height: 60px;
+	line-height: 60px;
+	background: #ddd;
+	color: #e03232;
+	border-left: 5px solid #e03232; 
+	margin: 40px 0 0 0;
+	padding: 0 0 0 15px;
+	text-align: left;
+	font-weight: bold;
+}
+.row2 .col-md-3 ul{
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+	background: #f1f1f1;
+}
+.row2 .col-md-3 ul li{
+	display: block;
+	width: 100%;
+	height: 40px;
+	line-height: 40px;
+}
+.row2 .col-md-3 ul li a{
+	display: block;
+	width: 100%;
+	height: 40px;
+	line-height: 40px;
+	color: black;
+	text-align: left;
+	text-decoration: none;
+	padding: 5px 0 0 20px;
+	font-family: arial;
+	font-size: 14px;
+}
+.row2 .col-md-3 ul li a:hover{
+	color: #e03232;
+}
+.row2 .col-md-3 a{
+	display: block;
+	float: left;
+}
+.row2 .col-md-3 a img{
+	float: left;
+	width: 110px;
+	height: 60px;
+	margin: 10px 0 0 0;
+}
+.row2 .col-md-3 #la1 img{
+	float: left;
+	width: 100%;
+	height: 250px;
+	margin: 10px 0 0 0;
+}
+.row2 .col-md-3 a p{
+	width: 197px;
+	float: left;
+	margin: 0;
+	padding: 0;
+	margin: 10px 0 0 0;
+	padding: 0 0 0 5px;
+	color: black;
+	text-align: left;
+}
+.row2 .col-md-3 a p:hover{
+	color: #e03232;	
+}
+
+
+
+#khoi1{
+	width: 100%;
+	float: left;
+	text-align: center;
+	margin: 40px 0 0 0;
+	border-bottom: 5px solid red;
+}
+#khoi1 a{
+	display: block;
+	float: left;
+	background: #ddd;
+	width: 200px;
+	height: 55px;
+	line-height: 55px;
+	text-decoration: none;
+	color: black;
+	font-weight: bold;
+	font-family: arial;
+	margin: 0 5px 0 0;
+	padding: 0;
+}
+#khoi1 a:hover{
+	background: #e03232;
+	color: white;
+}
+
+
+
+.col1 img{
+	float: left;
+	width: 280px;
+	height: 250px;
+	margin: 20px 0 0 0;
+	border: 1px solid #ddd;
+}
+.col1 #dh{
+	text-align: center;
+	display: block;
+	float: left;
+	width: 110px;
+	height: 40px;
+	line-height: 40px;
+	background: black;
+	font-family: arial;
+	color: white;
+	text-decoration: none;
+	margin: 0 10px 0 0;
+	padding: 0;
+	border-left: 1px solid #ddd;
+}
+.col1 #dt{
+	text-align: center;
+	display: block;
+	float: left;
+	width: 160px;
+	height: 40px;
+	line-height: 40px;
+	background: #28a745;
+	font-family: arial;
+	color: white;
+	text-decoration: none;
+	margin: 0;
+	padding: 0;
+	border-right: 1px solid #ddd;
+}
+.col1 #khoi2{
+	float: left;
+	width: 280px;
+	border: 1px solid #ddd;
+}
+.col1 h6{
+	display: block;
+	float: left;
+	width: 280px;
+	height: 40px;
+	text-align: center;
+	line-height: 40px;
+	margin: 15px 0 0 0;
+}
+.col1 #giacu{
+	display: block;
+	float: left;
+	margin: 0 20px 30px 35px;
+	padding-left: 5%;
+	color: #e03232;
+	font-weight: bold;
+}
+.col1 #giamoi{
+	display: block;
+	float: left;
+	margin: 0;
+	padding-left: 15%;
+	color: grey;
+	text-decoration: line-through;
+}
+
+
+
+#khoi3{	
+	width: 100%;
+	height: auto;
+	float: left;
+	margin-top: 30px;
+	margin-bottom: 150px;
+}
+#khoi3 img{
+	float: left;
+	width: 350px;
+	height: 280px;
+}
+#khoi3 #khoi3-1{
+	float: left;
+	width: 631.5px;
+}
+#khoi3 #khoi3-1 #chu1{
+	float: left;
+	display: block;
+	width: 100%;
+	color: black;
+	font-size: 25px;
+	margin: 20px 0 0 0;
+	padding: 0 0 0 40px;
+	text-align: left;
+	font-weight: bold;
+	font-family: arial;
+}
+#khoi3 #khoi3-1 #chu2{
+	margin: 0 0 0 40px;
+	padding: 0;
+	float: left;
+	display: block;
+	text-align: left;
+	color: black;
+	font-weight: bolder;
+}
+#khoi3 #khoi3-1 #chu3{
+	margin: 0;
+	padding: 0;
+	float: left;
+	display: block;
+	text-align: left;
+}
+#khoi3 #khoi3-1 #chu4{
+	float: left;
+	display: block;
+	width: 100%;
+	color: #e03232;
+	margin: 20px 0 20px 40px;
+	padding: 0;
+	font-size: 30px;
+	text-align: left;
+	font-weight: bold;
+	font-family: arial;
+}
+#khoi3 #khoi3-1 ul{
+	margin: 0 0 0 60px;
+	padding: 0;
+	float: left;
+}
+#khoi3 #khoi3-1 ul li{
+	margin: 0 0 8px 0;
+	padding: 0;
+
+}
+#khoi3 #khoi3-1 ul li #chu5{
+	margin: 0;
+	padding: 0;
+	float: left;
+	display: block;
+	text-align: left;
+	color: black;
+	font-weight: bolder;
+}
+#khoi3 #khoi3-1 ul li #chu6{
+	margin: 0;
+	padding: 0;
+	float: left;
+	display: block;
+	text-align: left;
+}
+input{
+	width: 90%;
+	height: 40px;
+	float: left;
+	margin: 40px 0 0 0;
+	padding: 0 0 0 20px;
+	font-family: arial;
+	font-style: italic;
+	color: grey;
+}
+.tim{
+	float: left;
+	width: 5%;
+	height: 40px;
+	line-height: 40px;
+	background: black;
+	margin: 40px 0 0 0;
+	padding: 0;
+	color: white;
+}
+.showprice{
+	color: #e03232;
+	font-weight: bold;
+}
